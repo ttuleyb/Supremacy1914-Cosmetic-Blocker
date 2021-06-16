@@ -31,7 +31,7 @@ Goto advanced settings
 **Step 5:**
 Scroll down
 
-![untitled5](https://user-images.githubusercontent.com/74624982/122217849-b7973d80-cea5-11eb-960e-d71ace99f6c7.png)
+![untitled4](https://user-images.githubusercontent.com/74624982/122218198-18bf1100-cea6-11eb-88d8-e670dc4ffbbc.png)
 
 **Step 6:**
 Enter these 2 filter rules below seperately (Copy paste one in the text box, press add then repeat)
