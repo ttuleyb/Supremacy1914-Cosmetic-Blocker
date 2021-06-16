@@ -5,5 +5,5 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ttuleyb/Supremacy1914-Cosmetic-Blocker
 !
-https://www.supremacy1914.com/clients/s1914-client-ultimate/s1914-client-ultimate_live/images-map/units/
+https://www.supremacy1914.com/clients/s1914-client-ultimate/s1914-client-ultimate_live/images-map/units/*
 supremacy1914.com###func_main_error_popup
