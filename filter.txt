@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1
+! Version: 2
 ! Title: Supremacy1914 Cosmetic Blocker
 ! Last modified: 16/06/2021
 ! Expires: 4 days (update frequency)
