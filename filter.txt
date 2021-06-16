@@ -1,2 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Supremacy1914 Cosmetic Blocker
+! Last modified: 16 Jun 2021 12:59 UTC
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/ttuleyb/Supremacy1914-Cosmetic-Blocker
+! License: http://creativecommons.org/licenses/by/3.0/
+!
+!--------------------------General blocking rules-----------------------------!
 https://www.supremacy1914.com/clients/s1914-client-ultimate/s1914-client-ultimate_live/images-map/units/
 supremacy1914.com###func_main_error_popup
